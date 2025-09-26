@@ -1,0 +1,157 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>The Hindu — Interactive Keyword Demo</title>
+<style>
+:root{
+--bg:#0f1724; --card:#0b1220; --muted:#94a3b8; --accent:#0ea5a4; --highlight:#fff3cd;
+--radius:12px;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:#e6eef6;}
+.wrap{max-width:1000px;margin:40px auto;padding:28px;}
+
+header{text-align:center;margin-bottom:30px}
+header h1{margin:0;font-size:26px;color:var(--accent)}
+header p{color:var(--muted);font-size:14px;margin-top:6px}
+
+.grid{display:grid;grid-template-columns:1fr 2fr;gap:24px}
+@media(max-width:900px){.grid{grid-template-columns:1fr}}
+
+.card{background:#111827;padding:20px;border-radius:var(--radius);box-shadow:0 4px 15px rgba(0,0,0,0.05)}
+label{display:block;margin-bottom:6px;color:var(--muted);font-size:13px}
+input, textarea{width:100%;padding:10px;border-radius:8px;border:1px solid #333;background:#0b1220;color:#e6eef6;font-size:14px}
+textarea{min-height:120px;resize:vertical}
+.btn{margin-top:12px;padding:10px 14px;border:none;border-radius:8px;background:var(--accent);color:#022;cursor:pointer;font-weight:600}
+.btn.ghost{background:transparent;border:1px solid var(--accent);color:var(--accent)}
+
+.chip{display:inline-block;background:var(--highlight);padding:4px 10px;border-radius:999px;margin:2px;font-size:12px;color:#111}
+
+.panel{display:flex;flex-direction:column;gap:16px}
+.article{background:#1e293b;padding:18px;border-radius:var(--radius);box-shadow:0 2px 10px rgba(0,0,0,0.05);transition:transform 0.2s;cursor:pointer}
+.article:hover{transform:translateY(-2px)}
+.article h3{margin:0 0 6px 0;font-size:16px;color:var(--accent)}
+.article p{margin:0;color:var(--muted);font-size:14px;line-height:1.4}
+mark{background:var(--highlight);padding:0 4px;border-radius:4px;transition:background 0.3s}
+
+.notification{padding:10px 14px;background:var(--accent);color:#fff;border-radius:var(--radius);text-align:center;font-weight:600;display:none;margin-top:10px}
+
+/* Modal styles */
+.modal{display:none;position:fixed;top:0;left:0;width:100%;height:100%;background:rgba(0,0,0,0.8);justify-content:center;align-items:center;z-index:1000}
+.modal-content{background:var(--card);padding:24px;border-radius:var(--radius);max-width:700px;width:90%;max-height:90%;overflow-y:auto;position:relative}
+.close{position:absolute;top:12px;right:16px;font-size:20px;color:var(--accent);cursor:pointer}
+.modal-content h2{margin-top:0;color:var(--accent)}
+.modal-content p{color:var(--muted);line-height:1.5}
+.modal-content .date{font-size:12px;color:#94a3b8;margin-bottom:12px}
+</style>
+</head>
+<body>
+<div class="wrap">
+<header>
+<h1>The Hindu — Interactive Keyword Demo</h1>
+<p>Click any article to read in full like a real paper. Keywords highlighted.</p>
+</header>
+
+<div class="grid">
+<div>
+<div class="card">
+<label for="keywords">Enter keywords / syllabus</label>
+<textarea id="keywords" placeholder="Federalism, GST, Climate Change"></textarea>
+<button id="saveBtn" class="btn">Save & Activate</button>
+<button id="clearBtn" class="btn ghost">Clear</button>
+<div id="preview"></div>
+<div id="notification" class="notification"></div>
+</div>
+</div>
+
+<div class="panel" id="newsList"></div>
+</div>
+</div>
+
+<!-- Modal -->
+<div class="modal" id="modal">
+<div class="modal-content">
+<span class="close" id="closeModal">&times;</span>
+<h2 id="modalTitle"></h2>
+<div class="date" id="modalDate"></div>
+<p id="modalBody"></p>
+</div>
+</div>
+
+<script>
+const sampleArticles = [
+{id:1,title:'Parliament passes new GST amendment',body:'The Lok Sabha today approved the GST amendment bill that clarifies interstate tax jurisdiction.',date:'Sep 26, 2025'},
+{id:2,title:'Monsoon patterns impact agriculture',body:'Delayed monsoon and erratic rains affect paddy and millet crops.',date:'Sep 25, 2025'},
+{id:3,title:'Governor powers questioned in recent dispute',body:'Dispute over state minister appointment highlights constitutional questions.',date:'Sep 24, 2025'},
+{id:4,title:'Supreme Court rules on environmental clearance',body:'Environmental clearances must consider cumulative impact assessment.',date:'Sep 23, 2025'},
+{id:5,title:'WHO updates global health guidelines',body:'WHO announced new guidelines on pandemic preparedness.',date:'Sep 22, 2025'}
+];
+
+const newsList = document.getElementById('newsList');
+const keywordsEl = document.getElementById('keywords');
+const saveBtn = document.getElementById('saveBtn');
+const clearBtn = document.getElementById('clearBtn');
+const preview = document.getElementById('preview');
+const notification = document.getElementById('notification');
+const modal = document.getElementById('modal');
+const modalTitle = document.getElementById('modalTitle');
+const modalBody = document.getElementById('modalBody');
+const modalDate = document.getElementById('modalDate');
+const closeModal = document.getElementById('closeModal');
+
+function parseKeywords(text){
+return text.split(/[,\n]/).map(t=>t.trim().toLowerCase()).filter(Boolean);
+}
+
+function highlightText(text, words){
+let out = text;
+words.forEach(w => {
+const pattern = new RegExp(w.replace(/[.*+?^${}()|[\\]\\]/g,'\\$&'),'gi');
+out = out.replace(pattern, match => `<mark>${match}</mark>`);
+});
+return out;
+}
+
+function renderPreview(){
+const kws = parseKeywords(keywordsEl.value);
+preview.innerHTML = kws.map(k => `<span class="chip">${k}</span>`).join(' ');
+}
+
+function renderArticles(){
+const kws = parseKeywords(keywordsEl.value);
+newsList.innerHTML = '';
+let matchCount = 0;
+sampleArticles.forEach(article => {
+const found = kws.filter(k => (article.title+article.body).toLowerCase().includes(k));
+const articleEl = document.createElement('div');
+articleEl.className = 'article';
+articleEl.innerHTML = `<h3>${article.title}</h3><p>${highlightText(article.body, found)}</p>`;
+articleEl.onclick = () => openModal(article, found);
+newsList.appendChild(articleEl);
+if(found.length) matchCount++;
+});
+notification.style.display = matchCount ? 'block' : 'none';
+notification.textContent = matchCount ? `✅ ${matchCount} New Matches Found Today!` : '';
+}
+
+function openModal(article, kws){
+modalTitle.innerHTML = highlightText(article.title, kws);
+modalBody.innerHTML = highlightText(article.body, kws);
+modalDate.textContent = article.date;
+modal.style.display = 'flex';
+}
+
+closeModal.onclick = () => { modal.style.display = 'none'; };
+window.onclick = e => { if(e.target==modal) modal.style.display='none'; };
+
+saveBtn.onclick = () => { renderPreview(); renderArticles(); saveBtn.textContent='Saved ✓'; setTimeout(()=>saveBtn.textContent='Save & Activate',800); };
+clearBtn.onclick = () => { keywordsEl.value=''; renderPreview(); renderArticles(); notification.style.display='none'; };
+
+renderPreview();
+renderArticles();
+</script>
+</body>
+</html>
