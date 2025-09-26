@@ -118,6 +118,11 @@ By implementing a **Keyword Subscription Box**, *The Hindu* can reposition itsel
 
 ---
 
-✍️ **Author:** [Your Name]  
+✍️ **Author:** RAGURAM NARAYANASWAMY 
+
 📂 **Repo Purpose:** Product Case Study & Growth Idea for *The Hindu*  
+
+---
+
+
 
