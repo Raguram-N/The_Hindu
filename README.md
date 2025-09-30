@@ -36,7 +36,7 @@ Introduce a **“Keyword Box” feature** during subscription signup:
 ---
 
 ## **e-Hindu Demo (Prototype):**
-[Click here to view](https://raguram-n.github.io/The_Hindu/)
+- [Click here to view](https://raguram-n.github.io/The_Hindu/)
 
 ---
 
