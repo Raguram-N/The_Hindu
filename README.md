@@ -68,8 +68,13 @@ Introduce a **“Keyword Box”** feature during subscription signup:
 - Sends personalized notifications or email alerts with a **Daily Keyword Digest.**  
 ✅ Optional: Archive matched articles under a **“My Topics” dashboard** for revision.  
 
-📌 **e-Hindu Demo (Prototype):**  
-[Click here to view](https://raguram-n.github.io/The_Hindu/)  
+
+## 📌 **e-Hindu Demo (Prototype):**  
+ 
+
+- **Prototype Demo:** [Click here to view](https://raguram-n.github.io/The_Hindu/) 
+- **Demo Video:** [Watch Here](.) 
+
 
 ---
 
