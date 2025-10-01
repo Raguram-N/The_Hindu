@@ -73,7 +73,7 @@ Introduce a **“Keyword Box”** feature during subscription signup:
  
 
 - **Prototype Demo:** [Click here to view](https://raguram-n.github.io/The_Hindu/) 
-- **Demo Video:** [Watch Here](https://github.com/Raguram-N/The_Hindu/blob/main/Demo%20Video.mp4) 
+- **Demo Video:** [Watch Here](https://github.com/Raguram-N/The_Hindu/blob/main/Demo%20Video.mp4) - (Click "view raw" to download the video)
 
 
 ---
