@@ -74,6 +74,17 @@ In recent years, however:
 
 ## 4. Proposed Solution – Keyword Subscription Box  
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="generated-image (1).png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+**Keyword Subscription Box**
+
 Introduce a **“Keyword Box”** feature during subscription signup:  
 
 ✅ Readers enter keywords/topics (e.g., Governor Powers, GST, Environment Acts, Monetary Policy, WHO).  
@@ -82,6 +93,10 @@ Introduce a **“Keyword Box”** feature during subscription signup:
 - Highlights matched keywords in the e-paper/app.  
 - Sends personalized notifications or email alerts with a **Daily Keyword Digest.**  
 ✅ Optional: Archive matched articles under a **“My Topics” dashboard** for revision.  
+
+</td>
+</tr>
+</table>
 
 
 ## 📌 **e-Hindu Demo (Prototype):**  
