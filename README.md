@@ -17,6 +17,17 @@ The Hindu – Personalized Keyword Subscription is a proposed feature designed t
 
 ## ✨ The Story – The Spark  
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="generated-image.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
+**Picture this**
+
 > One morning, a young aspirant preparing for UPSC opened **five different news apps** just to find one thing:  
 > *“Any news related to India’s foreign policy and Tamil Nadu politics.”*  
 
@@ -29,6 +40,10 @@ The frustration grew:
 
 - *“Why can’t I just follow the keywords that matter to me?”*  
 - *“Why isn’t the news experience as personal as my exam syllabus or profession?”*  
+
+</td>
+</tr>
+</table>
 
 👉 That’s when the spark struck:  
 Instead of making readers adjust to the newspaper, **let the newspaper adjust to the reader.**  
