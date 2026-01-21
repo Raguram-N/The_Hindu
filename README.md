@@ -221,6 +221,7 @@ The keyword/syllabus-based study model is already **100% proven** in India’s e
 
 ---
 
+
 ## 🔮 Future Scope – AI-Powered Exam Intelligence Layer
 
 To further strengthen **retention, habit formation, and monetisation**, the **Keyword Subscription** feature can be extended into an **AI-powered Exam Intelligence Layer** focused on competitive exam aspirants.
@@ -228,6 +229,15 @@ To further strengthen **retention, habit formation, and monetisation**, the **Ke
 This transforms *The Hindu* from a news consumption platform into a **daily learning companion**.
 
 ---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="solution . 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
 
 ## 🎯 Problem Extension
 
@@ -238,8 +248,22 @@ Even after filtering relevant news, exam aspirants struggle with:
 
 Today, this value is largely captured by **coaching institutes**, not by the news platform itself.
 
+</td>
+</tr>
+</table>
+
 ---
 
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="Me 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+ 
 ## 🚀 Proposed Solution
 
 ### AI + PYQ Integrated Learning Experience
@@ -309,6 +333,10 @@ Within the **My Topics** dashboard, users can:
   - Topics read
   - Topics practiced
   - Weak areas
+
+  </td>
+</tr>
+</table>
 
 ---
 
