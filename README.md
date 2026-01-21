@@ -304,11 +304,28 @@ Using **current article context + PYQ patterns**, AI generates:
 - UPSC-style analytical questions
 - TNPSC prelim & mains questions
 - MCQs with answer frameworks
+- Difficulty, structure, and framing mirror **real exam standards**.
 
-**Example:**
-> *“How does GST Council decision-making reflect India’s federal structure? Discuss.”*
+> **Example:**
 
-Difficulty, structure, and framing mirror **real exam standards**.
+**Q1. With reference to Goods and Services Tax (GST) in India**, consider the following statements:
+1. GST is a destination-based tax.
+2. GST subsumed both direct and indirect taxes.
+3. GST is levied on supply of goods and services.
+
+Which of the statements given above is/are correct?
+A. 1 and 3 only
+B. 2 only
+C. 1, 2 and 3
+D. 3 only
+
+✅ Answer: A
+📌 Explanation:
+1. GST is destination-based ✔️
+2. GST subsumed only indirect taxes, not direct taxes ❌
+3. GST is levied on supply, not on manufacture or sale ✔️
+
+**Q2. How does GST Council decision-making reflect India’s federal structure? Discuss.**
 
 ---
 
