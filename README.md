@@ -234,7 +234,7 @@ This transforms *The Hindu* from a news consumption platform into a **daily lear
 <tr>
 <td width="40%" align="center" valign="middle">
 
-<img src="solution . 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="Me 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </td>
 <td width="60%" valign="top">
@@ -253,16 +253,6 @@ Today, this value is largely captured by **coaching institutes**, not by the new
 </table>
 
 ---
-
-
-<table>
-<tr>
-<td width="40%" align="center" valign="middle">
-
-<img src="Me 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
-
-</td>
-<td width="60%" valign="top">
  
 ## 🚀 Proposed Solution
 
@@ -334,9 +324,6 @@ Within the **My Topics** dashboard, users can:
   - Topics practiced
   - Weak areas
 
-  </td>
-</tr>
-</table>
 
 ---
 
@@ -358,6 +345,15 @@ Within the **My Topics** dashboard, users can:
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="solution . 1.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 🧩 Editorial Integrity Safeguards
 
 - AI-generated questions are:
@@ -372,6 +368,10 @@ Within the **My Topics** dashboard, users can:
 
 > **“The Hindu is not just where you read the news —  
 > it’s where you prepare for the future.”**
+
+  </td>
+</tr>
+</table>
 
 ---
 
