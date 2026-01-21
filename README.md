@@ -222,7 +222,7 @@ The keyword/syllabus-based study model is already **100% proven** in India’s e
 ---
 
 
-## 🔮 Future Scope – AI-Powered Exam Intelligence Layer
+## 🔮 Feature enhancement Scope – AI-Powered Exam Intelligence Layer
 
 To further strengthen **retention, habit formation, and monetisation**, the **Keyword Subscription** feature can be extended into an **AI-powered Exam Intelligence Layer** focused on competitive exam aspirants.
 
