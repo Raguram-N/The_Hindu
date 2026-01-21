@@ -49,11 +49,11 @@ The frustration grew:
 </tr>
 </table>
 
-👉 That’s when the spark struck:  
-Instead of making readers adjust to the newspaper, **let the newspaper adjust to the reader.**  
+That’s when the spark struck:  
+👉  Instead of making readers adjust to the newspaper, **let the newspaper adjust to the reader.**  
 
-⚡ A problem turned into a product:  
-**The Hindu – Personalized Keyword Subscription: Read what matters to you.**  
+A problem turned into a product:  
+⚡ **The Hindu – Personalized Keyword Subscription: Read what matters to you.**  
 
 ---
 
