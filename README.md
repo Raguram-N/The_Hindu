@@ -2,6 +2,10 @@
 # 📰 Personalized Keyword Subscription – The Hindu  
 “How Personalized Keyword Alerts Can Boost The Hindu’s Subscriptions & Retention Among Competitive Exam Aspirants”  
 
+![Stage](https://img.shields.io/badge/Stage-Concept-blue)
+![Status](https://img.shields.io/badge/Status-Prototype-yellow)
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-green)
+
 ---
 
 ## 1. Overview  
