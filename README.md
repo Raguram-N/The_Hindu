@@ -108,6 +108,15 @@ Introduce a **“Keyword Box”** feature during subscription signup:
 
 ---
 
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="19.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+
 ## 5. How It Works (Flow)  
 
 1. **Subscribe** → User signs up and enters keywords.  
@@ -117,6 +126,10 @@ Introduce a **“Keyword Box”** feature during subscription signup:
    - Highlighted keywords inside the e-paper/app.  
    - A “Matched Articles Only” view.  
 4. **Engagement** → Readers spend less time filtering, more time reading.  
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -147,13 +160,48 @@ Competitive exam aspirants = **huge, recurring market**:
 
 👉 Conservative estimate: **30–40M active aspirants engage with current affairs daily.**  
 
+
 💰 If just **2% (0.8M students)** subscribe to a ₹999/year “Exam Edition”:  
 **Revenue Potential = ₹800 Cr annually**  
 + retention gains from existing subscribers  
 
+<p align="center">
+ 
+<img src="6.png" width="70%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</p>
+
+
+
+
 ---
 
-## 8. Success Stories – Why This Model Works  
+## 8. Competitive Advantage  
+
+- Unlike News Apps → The Hindu brings **credibility + depth**  
+- Unlike Coaching Notes → Students get **fresh, daily verified content**  
+- Unlike Generic Subscriptions → **Tailored to exam needs**  
+
+---
+
+## 9. Pilot Recommendation  
+
+- Launch with a **student-focused campaign** in UPSC hotspots (Delhi, Chennai, Hyderabad)  
+- Offer a **3-month trial plan** with keyword alerts  
+- Collect usage data → Scale pan-India  
+
+---
+
+<table>
+<tr>
+<td width="40%" align="center" valign="middle">
+
+<img src="3.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+</td>
+<td width="60%" valign="top">
+ 
+## 10. Success Stories – Why This Model Works  
 
 The keyword/syllabus-based study model is already **100% proven** in India’s exam prep ecosystem:  
 
@@ -163,21 +211,9 @@ The keyword/syllabus-based study model is already **100% proven** in India’s e
 
 📌 If the offline coaching model works → **Embedding the same inside The Hindu guarantees adoption.**  
 
----
-
-## 9. Competitive Advantage  
-
-- Unlike News Apps → The Hindu brings **credibility + depth**  
-- Unlike Coaching Notes → Students get **fresh, daily verified content**  
-- Unlike Generic Subscriptions → **Tailored to exam needs**  
-
----
-
-## 10. Pilot Recommendation  
-
-- Launch with a **student-focused campaign** in UPSC hotspots (Delhi, Chennai, Hyderabad)  
-- Offer a **3-month trial plan** with keyword alerts  
-- Collect usage data → Scale pan-India  
+</td>
+</tr>
+</table>
 
 ---
 
@@ -200,6 +236,7 @@ By implementing a **Keyword Subscription Box**, The Hindu can:
 
 📌 **Tagline:**  
 *“Read what matters to you.”*  
+
 
 ---
 
