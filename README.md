@@ -221,6 +221,132 @@ The keyword/syllabus-based study model is already **100% proven** in India’s e
 
 ---
 
+## 🔮 Future Scope – AI-Powered Exam Intelligence Layer
+
+To further strengthen **retention, habit formation, and monetisation**, the **Keyword Subscription** feature can be extended into an **AI-powered Exam Intelligence Layer** focused on competitive exam aspirants.
+
+This transforms *The Hindu* from a news consumption platform into a **daily learning companion**.
+
+---
+
+## 🎯 Problem Extension
+
+Even after filtering relevant news, exam aspirants struggle with:
+- Mapping current affairs to **Previous Year Questions (PYQs)**
+- Understanding **exam relevance** of news topics
+- Practicing **exam-oriented, application-based questions**
+
+Today, this value is largely captured by **coaching institutes**, not by the news platform itself.
+
+---
+
+## 🚀 Proposed Solution
+
+### AI + PYQ Integrated Learning Experience
+
+---
+
+## 🧠 Step 1: PYQ Knowledge Base Creation
+
+- Collect **publicly available PYQs** from:
+  - UPSC
+  - TNPSC
+  - SSC
+  - Banking & other major exams
+- Source only from **official or openly accessible portals**
+- Structure PYQs by:
+  - Subject
+  - Topic
+  - Keywords
+  - Exam year
+  - Difficulty level
+
+> Stored as an **AI-readable knowledge base**.
+
+---
+
+## 🔗 Step 2: Smart Topic-to-News Mapping
+
+When a news article is published (e.g., *GST Council decisions*):
+
+- AI scans article content
+- Matches it with:
+  - Relevant keywords
+  - Related PYQ topics
+- Displays a contextual section below the article:
+
+**📘 Exam Relevance: Previous Year Questions**
+
+**Examples:**
+- GST Council decisions → UPSC GS III PYQs  
+- Federal taxation → TNPSC Polity questions  
+
+---
+
+## 🤖 Step 3: AI-Generated Exam-Oriented Questions
+
+Using **current article context + PYQ patterns**, AI generates:
+
+- UPSC-style analytical questions
+- TNPSC prelim & mains questions
+- MCQs with answer frameworks
+
+**Example:**
+> *“How does GST Council decision-making reflect India’s federal structure? Discuss.”*
+
+Difficulty, structure, and framing mirror **real exam standards**.
+
+---
+
+## 📚 Step 4: Personalized Practice Dashboard
+
+Within the **My Topics** dashboard, users can:
+- View:
+  - Related PYQs
+  - AI-generated practice questions
+  - Topic-wise revision content
+- Track:
+  - Topics read
+  - Topics practiced
+  - Weak areas
+
+---
+
+## 📈 Business Impact
+
+### 🔒 Retention
+- Daily habit: *Read → Connect → Practice*
+- Positions The Hindu as an **essential study companion**
+
+### 💰 Monetisation
+- Premium add-on:
+  - **“The Hindu Exam Intelligence”**
+- Increases ARPU from student & aspirant segments
+
+### 🧠 Competitive Moat
+- Coaching apps → lack real-time news credibility  
+- News apps → lack exam intelligence  
+- **The Hindu uniquely owns both**
+
+---
+
+## 🧩 Editorial Integrity Safeguards
+
+- AI-generated questions are:
+  - Clearly labelled as **practice aids**
+  - Separated from editorial content
+- Editorial articles remain untouched
+- No opinion or interpretation generated on sensitive topics
+
+---
+
+## 🏁 Vision
+
+> **“The Hindu is not just where you read the news —  
+> it’s where you prepare for the future.”**
+
+---
+
 ## 11. Prototype Tech  
 
 - **Stack:** HTML, CSS, JavaScript (front-end prototype)  
