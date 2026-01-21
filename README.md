@@ -171,7 +171,7 @@ Competitive exam aspirants = **huge, recurring market**:
 
 <p align="center">
  
-<img src="6.png" width="70%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+<img src="6.png" width="90%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 </p>
 
