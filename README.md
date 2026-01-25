@@ -1,5 +1,5 @@
 # Case study
-# 📰 Personalized Keyword Subscription – The Hindu  
+# 📰 Personalized Keyword Subscription – The Hindu | Aspirants Corner 
 “How Personalized Keyword Alerts Can Boost The Hindu’s Subscriptions & Retention Among Competitive Exam Aspirants”  
 
 ![Stage](https://img.shields.io/badge/Stage-Concept-blue)
@@ -11,11 +11,11 @@
 ## 1. Overview  
 The Hindu – Personalized Keyword Subscription is a proposed feature designed to:  
 
-- Let readers **subscribe to specific keywords/topics** they care about  
-- Deliver a **daily curated feed or digest** filtered by those topics  
-- Send **breaking news alerts** tied to chosen keywords  
-- Provide a **noise-free, reader-first experience**  
-- Reposition The Hindu as the **most trusted current affairs partner** for exam aspirants  
+- Enables readers to follow exam-relevant keywords or syllabus topics.
+- Delivers personalized daily digests and real-time alerts
+- Eliminates information overload for aspirants
+- Improves engagement, retention, and subscription value
+- Positions The Hindu as a trusted exam-prep current affairs companion
 
 
 <img src="Overall banner.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
