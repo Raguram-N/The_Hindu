@@ -161,8 +161,7 @@ Introduce a **“Keyword Box”** feature during subscription signup:
 ## 7. Market Size Proof  
 
 Competitive exam aspirants = **huge, recurring market**:  
-- UPSC Civil Services: 10.6 lakh applicants (2024)  
-- NEET: 23.8 lakh applicants (2024)  
+- UPSC Civil Services: 10.6 lakh applicants (2024)   
 - Banking & SSC: 2–3 crore registrations annually  
 - State PSCs: Lakhs per state  
 
