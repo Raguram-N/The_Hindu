@@ -46,8 +46,8 @@ In recent years, however:
 
 **Picture this**
 
-> One morning, a young aspirant preparing for UPSC opened **five different news apps** just to find one thing:  
-> *“Any news related to India’s foreign policy and Tamil Nadu politics.”*  
+ One morning, a young aspirant preparing for UPSC opened **five different news apps** just to find one thing:  
+> **“Any news related to India’s foreign policy and Tamil Nadu politics.”**
 
 He struggled with:  
 - Endless scrolling through irrelevant headlines  
@@ -58,6 +58,10 @@ The frustration grew:
 
 - *“Why can’t I just follow the keywords that matter to me?”*  
 - *“Why isn’t the news experience as personal as my exam syllabus or profession?”*  
+
+For The Hindu, this resulted in:
+- **Low retention:** Students subscribe for 1–2 months and don’t renew
+- **Missed monetisation:** Same content experience for casual readers and serious aspirants
 
 </td>
 </tr>
@@ -167,9 +171,9 @@ Competitive exam aspirants = **huge, recurring market**:
 
 👉 Conservative estimate: **30–40M active aspirants engage with current affairs daily.**  
 
+> 💰 If just **2% (0.8M students)** subscribe to a ₹999/year “Exam Edition”: 
+- ### **Revenue Potential = ₹800 Cr annually**  
 
-💰 If just **2% (0.8M students)** subscribe to a ₹999/year “Exam Edition”:  
-**Revenue Potential = ₹800 Cr annually**  
 + retention gains from existing subscribers  
 
 <p align="center">
