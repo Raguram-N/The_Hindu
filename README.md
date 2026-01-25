@@ -17,6 +17,9 @@ The Hindu – Personalized Keyword Subscription is a proposed feature designed t
 - Provide a **noise-free, reader-first experience**  
 - Reposition The Hindu as the **most trusted current affairs partner** for exam aspirants  
 
+
+<img src="Overall banner.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
 ---
 
 ## ✨ The Story – The Spark  
