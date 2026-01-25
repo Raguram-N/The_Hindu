@@ -1,5 +1,5 @@
 # Case study
-# 📰 Personalized Keyword Subscription – The Hindu | Aspirants Corner 
+## 📰 Personalized Keyword Subscription – The Hindu | Aspirants Corner 
 “How Personalized Keyword Alerts Can Boost The Hindu’s Subscriptions & Retention Among Competitive Exam Aspirants”  
 
 ![Stage](https://img.shields.io/badge/Stage-Concept-blue)
