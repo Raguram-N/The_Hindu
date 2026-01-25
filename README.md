@@ -22,6 +22,17 @@ The Hindu – Personalized Keyword Subscription is a proposed feature designed t
 
 ---
 
+
+## 2. Background  
+
+The Hindu is one of India’s most respected newspapers, trusted for its editorial quality and factual reporting. Its readership includes a significant base of students preparing for competitive exams such as UPSC, TNPSC, SSC, Banking, and NEET.  
+
+In recent years, however:  
+- Digital-first platforms (Google News, Inshorts, coaching apps) have begun capturing this audience with personalization.  
+- While The Hindu remains strong in credibility, **the lack of personalization has led to reduced engagement and subscription drop-offs.** 
+
+---
+
 ## ✨ The Story – The Spark  
 
 <table>
@@ -56,17 +67,7 @@ That’s when the spark struck:
 👉  Instead of making readers adjust to the newspaper, **let the newspaper adjust to the reader.**  
 
 A problem turned into a product:  
-⚡ **The Hindu – Personalized Keyword Subscription: Read what matters to you.**  
-
----
-
-## 2. Background  
-
-The Hindu is one of India’s most respected newspapers, trusted for its editorial quality and factual reporting. Its readership includes a significant base of students preparing for competitive exams such as UPSC, TNPSC, SSC, Banking, and NEET.  
-
-In recent years, however:  
-- Digital-first platforms (Google News, Inshorts, coaching apps) have begun capturing this audience with personalization.  
-- While The Hindu remains strong in credibility, **the lack of personalization has led to reduced engagement and subscription drop-offs.**  
+⚡ **The Hindu – Personalized Keyword Subscription: Read what matters to you.**   
 
 ---
 
