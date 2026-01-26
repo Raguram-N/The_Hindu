@@ -25,6 +25,11 @@ The Hindu – Personalized Keyword Subscription is a proposed feature designed t
 <img src="Overall banner.1.1png.png" width="100%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
 
 
+## Prototype
+- **Figma**: [Link](https://www.figma.com/make/WH7LNdwkdIrcHEJHriXAae/Personalized-Keyword-Subscription?t=VQJe0g38RkV5RW6P-20&fullscreen=1&preview-route=%2Ffeed)
+- **User flow**: [Link](https://raguram-n.github.io/The_Hindu/)
+
+
 
 ---
 
