@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 1. Overview  
 The Hindu – Personalized Keyword Subscription is a proposed feature designed to:  
 
@@ -18,7 +19,10 @@ The Hindu – Personalized Keyword Subscription is a proposed feature designed t
 - Positions The Hindu as a trusted exam-prep current affairs companion
 
 
-<img src="Overall banner.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+<img src="Overall banner.1png.png" width="95%" alt="Just Click - Story Illustration" style="border-radius:10px; box-shadow: 0px 0px 8px rgba(0,0,0,0.2);" />
+
+
 
 ---
 
